@@ -11,8 +11,6 @@ Built with LangChain, Mistral AI, Pydantic, and Streamlit.
 
 🔗 Live App: https://movieinfoextractor.streamlit.app/
 
-🔗 GitHub Repository: https://github.com/Mishra108/movie-info-extractor
-
 ---
 
 ✨ Features
