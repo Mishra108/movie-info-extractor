@@ -9,7 +9,7 @@ Built with LangChain, Mistral AI, Pydantic, and Streamlit.
 
 🚀 Live Demo
 
-🔗 Live App: https://movieinfoextractor.streamlit.app/
+👉 [Click Here to Use the App]((https://movieinfoextractor.streamlit.app/))
 
 ---
 
