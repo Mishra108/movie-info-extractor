@@ -1,4 +1,3 @@
-````md
 🎬 Movie Information Extractor
 
 An AI-powered web application that extracts structured movie information from unstructured text using Large Language Models (LLMs).
@@ -9,7 +8,7 @@ Built with LangChain, Mistral AI, Pydantic, and Streamlit.
 
 🚀 Live Demo
 
-👉 [Click Here to Use the App]((https://movieinfoextractor.streamlit.app/))
+👉 [Click Here to Use the App](https://movieinfoextractor.streamlit.app/)
 
 ---
 
